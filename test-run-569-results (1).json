@@ -1,0 +1,325 @@
+{
+  "testRun": {
+    "id": 569,
+    "name": "Online Book Store - Functional Testing Sprint 1",
+    "status": "draft",
+    "executionDate": "2026-08-04T19:23:53.818Z"
+  },
+  "executions": [
+    {
+      "id": "exec-0",
+      "testCaseId": 5817,
+      "testCaseNumber": 2,
+      "testCaseName": "Registration with Existing Email",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-1",
+      "testCaseId": 5825,
+      "testCaseNumber": 10,
+      "testCaseName": "Browse Books by Category",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-2",
+      "testCaseId": 5816,
+      "testCaseNumber": 1,
+      "testCaseName": "Successful User Registration",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-3",
+      "testCaseId": 5824,
+      "testCaseNumber": 9,
+      "testCaseName": "View Book Catalog",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-4",
+      "testCaseId": 5832,
+      "testCaseNumber": 17,
+      "testCaseName": "Add Multiple Books to the Shopping Cart",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-5",
+      "testCaseId": 5818,
+      "testCaseNumber": 3,
+      "testCaseName": "Registration with Mandatory Fields Empty",
+      "status": "failed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-6",
+      "testCaseId": 5826,
+      "testCaseNumber": 11,
+      "testCaseName": "Search Book by Title",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-7",
+      "testCaseId": 5834,
+      "testCaseNumber": 19,
+      "testCaseName": "Remove All Books from the Shopping Cart",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-8",
+      "testCaseId": 5839,
+      "testCaseNumber": 24,
+      "testCaseName": "Verify Order Confirmation",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-9",
+      "testCaseId": 5819,
+      "testCaseNumber": 4,
+      "testCaseName": "Registration with Invalid Email Format",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-10",
+      "testCaseId": 5827,
+      "testCaseNumber": 12,
+      "testCaseName": "Search Book by Author",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-11",
+      "testCaseId": 5835,
+      "testCaseNumber": 20,
+      "testCaseName": "Successful Checkout",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-12",
+      "testCaseId": 5840,
+      "testCaseNumber": 25,
+      "testCaseName": "Verify Order Details",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-13",
+      "testCaseId": 5820,
+      "testCaseNumber": 5,
+      "testCaseName": "Successful User Login",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-14",
+      "testCaseId": 5828,
+      "testCaseNumber": 13,
+      "testCaseName": "Search with No Matching Results",
+      "status": "failed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-15",
+      "testCaseId": 5836,
+      "testCaseNumber": 21,
+      "testCaseName": "Checkout with an Empty Shopping Cart",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-16",
+      "testCaseId": 5841,
+      "testCaseNumber": 26,
+      "testCaseName": "Update User Profile",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-17",
+      "testCaseId": 5821,
+      "testCaseNumber": 6,
+      "testCaseName": "Login with Invalid Password",
+      "status": "blocked",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-18",
+      "testCaseId": 5829,
+      "testCaseNumber": 14,
+      "testCaseName": "View Book Details",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-19",
+      "testCaseId": 5837,
+      "testCaseNumber": 22,
+      "testCaseName": "Checkout Without Login",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-20",
+      "testCaseId": 5842,
+      "testCaseNumber": 27,
+      "testCaseName": "Change Password",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-21",
+      "testCaseId": 5822,
+      "testCaseNumber": 7,
+      "testCaseName": "Login with Unregistered Email",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-22",
+      "testCaseId": 5830,
+      "testCaseNumber": 15,
+      "testCaseName": "View Book Details from Search Results",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-23",
+      "testCaseId": 5838,
+      "testCaseNumber": 23,
+      "testCaseName": "Verify Order Summary Before Payment",
+      "status": "blocked",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-24",
+      "testCaseId": 5843,
+      "testCaseNumber": 28,
+      "testCaseName": "Logout Successfully",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-25",
+      "testCaseId": 5823,
+      "testCaseNumber": 8,
+      "testCaseName": "Login with Empty Credentials",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-26",
+      "testCaseId": 5831,
+      "testCaseNumber": 16,
+      "testCaseName": "Add a Book to the Shopping Cart",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-27",
+      "testCaseId": 5833,
+      "testCaseNumber": 18,
+      "testCaseName": "Remove a Book from the Shopping Cart",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    }
+  ],
+  "summary": {
+    "total": 28,
+    "passed": 24,
+    "failed": 2,
+    "skipped": 0,
+    "duration": 0
+  }
+}
