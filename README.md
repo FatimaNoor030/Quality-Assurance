@@ -4,11 +4,13 @@
 
 Welcome to my 10Pearls Quality Assurance Internship Portfolio.
 
-This repository documents my learning journey throughout the QA Internship at 10Pearls. I am using this repository to maintain the assignments, practical exercises, testing activities, documentation, and deliverables that I complete throughout the internship.
+This repository documents my learning journey throughout the QA Internship at 10Pearls. It contains assignments, practical exercises, project documentation, testing activities, and deliverables completed during the internship.
 
-My focus is not only on completing the assignments, but also on understanding how QA concepts are applied in practical situations and how a QA analyst approaches requirements, test cases, defects, API validation, and performance testing.
+The purpose of this repository is to demonstrate my understanding and practical application of Software Quality Assurance concepts, requirement analysis, Agile methodologies, manual testing, test case design, bug reporting, API testing, performance testing, and other QA-related activities.
 
-As I progress through the internship, this repository will continue to be updated with new assignments and learning outcomes.
+As I progress through the internship, this repository will continue to be updated with new assignments, deliverables, and learning outcomes.
+
+---
 
 ## Intern Information
 
@@ -18,32 +20,30 @@ Domain: Quality Assurance (QA)
 
 Internship: QA Internship at 10Pearls
 
+---
+
 ## Learning Objectives
 
-During this internship, I am working on strengthening my understanding of:
+During this internship, I aim to strengthen my understanding of:
 
 - Requirement Analysis
-- Functional and Non-Functional Requirements
+- Functional & Non-Functional Requirements
 - User Stories
-- Acceptance Criteria
-- Gherkin
-- Agile and Scrum Methodology
-- Sprint Planning
+- Acceptance Criteria (Gherkin)
 - Test Scenario Design
 - Test Case Design
-- Manual Testing
-- Test Execution
-- Bug Identification
 - Bug Reporting
-- Severity and Priority
+- Agile Scrum Methodology
+- Sprint Planning
 - Regression Testing
 - Exploratory Testing
 - API Testing
-- Automated API Validation
 - Performance Testing
 - Software Testing Life Cycle (STLC)
 - Software Development Life Cycle (SDLC)
-- QA Documentation and Best Practices
+- QA Best Practices
+
+---
 
 ## Repository Structure
 
@@ -51,10 +51,19 @@ During this internship, I am working on strengthening my understanding of:
 10Pearls-QA-Internship/
 │
 ├── Assignment-01/
+│   ├── Requirement Analysis
+│   ├── User Stories
+│   └── Sprint Planning
 │
 ├── Assignment-02/
+│   ├── Test Plan
+│   ├── Test Cases
+│   └── Test Execution
 │
 ├── Assignment-03/
+│   ├── Bug Reports
+│   ├── Screenshots
+│   └── Release Notes
 │
 ├── Assignment-04/
 │   ├── README.md
@@ -62,5 +71,6 @@ During this internship, I am working on strengthening my understanding of:
 │   ├── JMeter/
 │   └── Screenshots/
 │
+├── Assignment-05/
 │
 └── README.md
